@@ -1,4 +1,4 @@
-# cryptids-pygame
+# Cryptids
 RPG Game with Pygame
 
 
